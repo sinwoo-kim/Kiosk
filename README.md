@@ -12,7 +12,10 @@
 - Lv4: Menu 클래스에서 MenuItem 관리, List와 Menu 클래스 활용하여 메인메뉴 출력
 - Lv5: 캡슐화, 예외 처리(도전 기능)
 
-### 다이아그램
+### 클래스 다이아그램
+
+![Adjusted_Kiosk_Class_Diagram](https://github.com/user-attachments/assets/2ed99326-a676-49c3-9f7a-3130dcbac93e)
+
 
 ### 구현 과정
 [블로그 링크](https://velog.io/@shinwoo5676/Sparta-%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0)
