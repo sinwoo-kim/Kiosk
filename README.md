@@ -13,7 +13,8 @@
 - Lv5: 캡슐화, 예외 처리(도전 기능)
 
 ### 클래스 다이아그램
-![Colored_Kiosk_Class_Diagram](https://github.com/user-attachments/assets/3f42e21b-3588-4d22-b579-5a9dd2169506)
+![Moderate_Kiosk_Class_Diagram](https://github.com/user-attachments/assets/d8b3b979-cc04-44e9-aaa1-497d8b68730f)
+
 
 
 
